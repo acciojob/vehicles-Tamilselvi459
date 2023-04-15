@@ -7,10 +7,12 @@ public class Vehicle {
     private int currentDirection;
 
     public String getName() {
+
         return name;
     }
 
     public void setName(String name) {
+
         this.name = name;
     }
 
